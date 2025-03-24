@@ -6,6 +6,7 @@ Name: Favio
 Date : 24/03/2025
 
 
-- Image placeholder
+- Puppy picture!
 
 ![Alt Text](descarga.jpg)
+
